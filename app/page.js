@@ -10,6 +10,8 @@ export default function Home() {
     <div>
         {/* count:{count}
         <button onClick={()=>setCount(count+1)}>click</button> */}
+
+        hi
     </div>
   );
 }
